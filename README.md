@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack
 💻 Languages  
 - C  
-- C++  
+- Java
 - JavaScript  
 
 🌐 Web Development  
